@@ -324,7 +324,7 @@ const Page = () => {
           <div className="flex flex-col md:flex-row items-center justify-between gap-6">
             <div className="flex items-center gap-3">
               <HydrodactylLogo />
-              <span className="text-white/40 text-sm">© {new Date().getFullYear()} Pyro Inc and its contributors.</span>
+              <span className="text-white/40 text-sm">© {new Date().getFullYear()} BlueprintFramework, Hydrodactyl, and its contributors.</span>
             </div>
 
             <div className="flex items-center gap-6">
